@@ -1,0 +1,10 @@
+ListEvents.php
+When closing out of the list events, the calendar fails to retain Administration privilieges.
+Its fucking annoying.
+
+addEvent.php
+When adding event with a special character (ie. ' ! ?) the name will be messed up in the database.
+It's pretty fucking annoying.
+
+addEvent.php
+If you click close, it strips admin rights and doesn't even close the window.
